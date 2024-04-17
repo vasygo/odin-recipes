@@ -1,16 +1,53 @@
+body {
+    background-color: antiquewhite;
+    margin: 50px;
+    border: 50px;
+    padding: 40px 40px 500px 40px;
+    border-style: solid;
+    border-color: black;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
 h1 {
     font-size: 34px;
     color: white;
     background-color: black;
     text-align: center;
+
+    box-sizing: border-box;
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border-color: silver;
+    border: 50px;
 }
 
 .recipes {
     font-size: 28px;
+    width: 400px;
     font-weight: bold;
-    color: brown;
-    display: block;
+    color: white;
     text-align: center;
+    background-color: black;
+    
+    display: block;
+    box-sizing: border-box;
+    margin: 25px auto;
+    padding: 10px;
+    
+
+
+
 } 
 
 h2 {
